@@ -170,4 +170,4 @@ Review the destroy plan and confirm only when you are sure the resources are no 
 - v3: Artifact Registry + GitHub Actions CI/CD
 - v4: GKE deployment
 - v5: HTTPS load balancer, managed certificate, alerting, and dashboards
-  ان شاء الله
+  //ان شاء الله
