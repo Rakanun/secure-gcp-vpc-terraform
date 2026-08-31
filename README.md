@@ -164,10 +164,9 @@ terraform destroy
 
 Review the destroy plan and confirm only when you are sure the resources are no longer needed.
 
-## Next versions
+## Next versions ان شاء الله
 
 - v2: Dockerized FastAPI app
 - v3: Artifact Registry + GitHub Actions CI/CD
 - v4: GKE deployment
 - v5: HTTPS load balancer, managed certificate, alerting, and dashboards
-  //ان شاء الله
